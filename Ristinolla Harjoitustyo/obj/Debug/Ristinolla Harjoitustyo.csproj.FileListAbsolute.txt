@@ -1,0 +1,36 @@
+C:\Users\Toni Kuura\source\repos\Ristinolla Harjoitustyo\Ristinolla Harjoitustyo\bin\Debug\Ristinolla Harjoitustyo.exe.config
+C:\Users\Toni Kuura\source\repos\Ristinolla Harjoitustyo\Ristinolla Harjoitustyo\bin\Debug\Ristinolla Harjoitustyo.exe
+C:\Users\Toni Kuura\source\repos\Ristinolla Harjoitustyo\Ristinolla Harjoitustyo\bin\Debug\Ristinolla Harjoitustyo.pdb
+C:\Users\Toni Kuura\source\repos\Ristinolla Harjoitustyo\Ristinolla Harjoitustyo\obj\Debug\Ristinolla Harjoitustyo.csproj.AssemblyReference.cache
+C:\Users\Toni Kuura\source\repos\Ristinolla Harjoitustyo\Ristinolla Harjoitustyo\obj\Debug\Ristinolla Harjoitustyo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Toni Kuura\source\repos\Ristinolla Harjoitustyo\Ristinolla Harjoitustyo\obj\Debug\Ristinolla_Harjoitustyo.frmAloitus.resources
+C:\Users\Toni Kuura\source\repos\Ristinolla Harjoitustyo\Ristinolla Harjoitustyo\obj\Debug\Ristinolla_Harjoitustyo.Properties.Resources.resources
+C:\Users\Toni Kuura\source\repos\Ristinolla Harjoitustyo\Ristinolla Harjoitustyo\obj\Debug\Ristinolla Harjoitustyo.csproj.GenerateResource.cache
+C:\Users\Toni Kuura\source\repos\Ristinolla Harjoitustyo\Ristinolla Harjoitustyo\obj\Debug\Ristinolla Harjoitustyo.csproj.CoreCompileInputs.cache
+C:\Users\Toni Kuura\source\repos\Ristinolla Harjoitustyo\Ristinolla Harjoitustyo\obj\Debug\Ristinolla Harjoitustyo.exe
+C:\Users\Toni Kuura\source\repos\Ristinolla Harjoitustyo\Ristinolla Harjoitustyo\obj\Debug\Ristinolla Harjoitustyo.pdb
+C:\Users\Toni Kuura\source\repos\Ristinolla Harjoitustyo\Ristinolla Harjoitustyo\obj\Debug\Ristinolla_Harjoitustyo.Ristinolla.resources
+C:\Users\Aleksi\Downloads\Ristinolla_Harjoitustyo\Ristinolla Harjoitustyo\Ristinolla Harjoitustyo\obj\Debug\Ristinolla Harjoitustyo.csproj.AssemblyReference.cache
+C:\Users\Aleksi\Downloads\Ristinolla_Harjoitustyo\Ristinolla Harjoitustyo\Ristinolla Harjoitustyo\obj\Debug\Ristinolla Harjoitustyo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aleksi\Downloads\Ristinolla_Harjoitustyo\Ristinolla Harjoitustyo\Ristinolla Harjoitustyo\obj\Debug\Ristinolla_Harjoitustyo.frmAloitus.resources
+C:\Users\Aleksi\Downloads\Ristinolla_Harjoitustyo\Ristinolla Harjoitustyo\Ristinolla Harjoitustyo\obj\Debug\Ristinolla_Harjoitustyo.Properties.Resources.resources
+C:\Users\Aleksi\Downloads\Ristinolla_Harjoitustyo\Ristinolla Harjoitustyo\Ristinolla Harjoitustyo\obj\Debug\Ristinolla_Harjoitustyo.Ristinolla.resources
+C:\Users\Aleksi\Downloads\Ristinolla_Harjoitustyo\Ristinolla Harjoitustyo\Ristinolla Harjoitustyo\obj\Debug\Ristinolla Harjoitustyo.csproj.GenerateResource.cache
+C:\Users\Aleksi\Downloads\Ristinolla_Harjoitustyo\Ristinolla Harjoitustyo\Ristinolla Harjoitustyo\obj\Debug\Ristinolla Harjoitustyo.csproj.CoreCompileInputs.cache
+C:\Users\Aleksi\Downloads\Ristinolla_Harjoitustyo\Ristinolla Harjoitustyo\Ristinolla Harjoitustyo\obj\Debug\Ristinolla Harjoitustyo.exe
+C:\Users\Aleksi\Downloads\Ristinolla_Harjoitustyo\Ristinolla Harjoitustyo\Ristinolla Harjoitustyo\obj\Debug\Ristinolla Harjoitustyo.pdb
+C:\Users\Aleksi\Downloads\Ristinolla_Harjoitustyo\Ristinolla Harjoitustyo\Ristinolla Harjoitustyo\bin\Debug\Ristinolla Harjoitustyo.exe.config
+C:\Users\Aleksi\Downloads\Ristinolla_Harjoitustyo\Ristinolla Harjoitustyo\Ristinolla Harjoitustyo\bin\Debug\Ristinolla Harjoitustyo.exe
+C:\Users\Aleksi\Downloads\Ristinolla_Harjoitustyo\Ristinolla Harjoitustyo\Ristinolla Harjoitustyo\bin\Debug\Ristinolla Harjoitustyo.pdb
+C:\Users\Toni Kuura\Downloads\Ristinolla_Harjoitustyo\Ristinolla Harjoitustyo\Ristinolla Harjoitustyo\bin\Debug\Ristinolla Harjoitustyo.exe.config
+C:\Users\Toni Kuura\Downloads\Ristinolla_Harjoitustyo\Ristinolla Harjoitustyo\Ristinolla Harjoitustyo\bin\Debug\Ristinolla Harjoitustyo.exe
+C:\Users\Toni Kuura\Downloads\Ristinolla_Harjoitustyo\Ristinolla Harjoitustyo\Ristinolla Harjoitustyo\bin\Debug\Ristinolla Harjoitustyo.pdb
+C:\Users\Toni Kuura\Downloads\Ristinolla_Harjoitustyo\Ristinolla Harjoitustyo\Ristinolla Harjoitustyo\obj\Debug\Ristinolla Harjoitustyo.csproj.AssemblyReference.cache
+C:\Users\Toni Kuura\Downloads\Ristinolla_Harjoitustyo\Ristinolla Harjoitustyo\Ristinolla Harjoitustyo\obj\Debug\Ristinolla Harjoitustyo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Toni Kuura\Downloads\Ristinolla_Harjoitustyo\Ristinolla Harjoitustyo\Ristinolla Harjoitustyo\obj\Debug\Ristinolla_Harjoitustyo.frmAloitus.resources
+C:\Users\Toni Kuura\Downloads\Ristinolla_Harjoitustyo\Ristinolla Harjoitustyo\Ristinolla Harjoitustyo\obj\Debug\Ristinolla_Harjoitustyo.Properties.Resources.resources
+C:\Users\Toni Kuura\Downloads\Ristinolla_Harjoitustyo\Ristinolla Harjoitustyo\Ristinolla Harjoitustyo\obj\Debug\Ristinolla_Harjoitustyo.Ristinolla.resources
+C:\Users\Toni Kuura\Downloads\Ristinolla_Harjoitustyo\Ristinolla Harjoitustyo\Ristinolla Harjoitustyo\obj\Debug\Ristinolla Harjoitustyo.csproj.GenerateResource.cache
+C:\Users\Toni Kuura\Downloads\Ristinolla_Harjoitustyo\Ristinolla Harjoitustyo\Ristinolla Harjoitustyo\obj\Debug\Ristinolla Harjoitustyo.csproj.CoreCompileInputs.cache
+C:\Users\Toni Kuura\Downloads\Ristinolla_Harjoitustyo\Ristinolla Harjoitustyo\Ristinolla Harjoitustyo\obj\Debug\Ristinolla Harjoitustyo.exe
+C:\Users\Toni Kuura\Downloads\Ristinolla_Harjoitustyo\Ristinolla Harjoitustyo\Ristinolla Harjoitustyo\obj\Debug\Ristinolla Harjoitustyo.pdb
